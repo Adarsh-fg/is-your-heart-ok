@@ -74,7 +74,7 @@ This Streamlit-based application predicts the likelihood of heart disease based 
 ---
 
 ### **Contributors**
-- [Your Name]
+- Aarsh-fg
 
 ---
 
